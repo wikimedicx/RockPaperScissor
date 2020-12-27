@@ -14,10 +14,6 @@ function disableButtons() {
 
 }
 
-function reload() {
-
-}
-
 function playRound(playerSelection) {
 	let computerSelection = computerPlay();
 	let result = '';
