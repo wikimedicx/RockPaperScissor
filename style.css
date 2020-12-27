@@ -1,0 +1,33 @@
+* {
+padding: 0;
+margin: 0;
+background-color: #3d5a80;
+	
+}
+.container {
+font-family: arial;
+text-align: center;
+color: white;
+}
+.header {
+padding: 20px;
+font-size: 20px;
+}
+#result {
+font-size: 20px;
+margin-top: 50px;
+margin-bottom:  100px
+}
+.buttons {
+position: absolute;
+bottom: 20%;
+left: 37%
+
+}
+button {
+text-align: center;
+margin-right: 50px;
+cursor: pointer;
+border: none;
+color: white;
+}
