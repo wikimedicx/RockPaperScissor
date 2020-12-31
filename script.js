@@ -11,7 +11,7 @@ function disableButtons() {
 	button.forEach(elem => {
 		elem.disabled = true;
 	})
-
+}
 function playRound(playerSelection) {
 	let computerSelection = computerPlay();
 	let result = '';
